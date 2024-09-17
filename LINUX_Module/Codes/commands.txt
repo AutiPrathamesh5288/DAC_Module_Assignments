@@ -1,0 +1,31 @@
+
+1. ls - List directory contents
+2. cd - Change directory
+3. pwd - Print working directory
+4. mkdir - Create a new directory
+5. rm - Remove files or directories
+6. cp - Copy files or directories
+7. mv - Move or rename files or directories
+8. cat - Concatenate and display file contents
+9. touch - Create an empty file or update the timestamp of a file
+10. chmod - Change file permissions
+11. chown - Change file owner and group
+12. grep - Search for patterns in files
+13. find - Search for files in a directory hierarchy
+14. tar - Archive files and directories
+15. ps - Display currently running processes
+16. kill - Terminate a process by PID
+17. df - Display disk space usage
+18. du - Display file and directory size
+19. man - Display manual for a command
+20. echo - Print text to the terminal or write to a file
+21. wget - Download files from the internet
+22. ssh - Secure Shell for remote login
+23. scp - Secure copy for file transfer
+24. ftp - File Transfer Protocol client
+25. sudo - Execute a command as another user (usually root)
+26. whoami - gives current user name
+27. ls -a - list all hidden files
+28. alias - for giving nick name
+29. nano - text editor
+30. ping - used for network checking
